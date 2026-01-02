@@ -188,6 +188,34 @@
       </td>      
   </tr>
   </table>
+  <table>
+    <tr>
+      <td>
+          <h4>Games in progress</h4>
+          <div>
+            <a href="https://github.com/DRGNCoDR/CP-1">CP-1</a>
+          </div>
+          <div>    
+            <a href="https://github.com/DRGNCoDR/Godot-SSG">Silver Surfer</a>
+          </div>
+          <div>
+            <a href="https://github.com/DRGNCoDR/DragonEggCollector">Dragon Egg Collector</a>
+          </div>
+      </td>
+       <td>
+          <h4>Apps in progress</h4>
+          <div>
+            <a href="https://github.com/DRGNCoDR/react-todo-2026">React Todo 2026</a>
+          </div>
+          <div>    
+            <a href="https://github.com/DRGNCoDR/Svelte_ToDo">Svelte Todo</a>
+          </div>
+          <div>
+            <a href="https://github.com/DRGNCoDR/Project_Archive/tree/main/Java/Java-Tag-Generator-master">Tag Generator (Convert to different language)</a>
+          </div>
+      </td>
+    </tr>    
+  </table>
   <!--<a href="https://github.com/DRGNCoDR/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DRGNCoDR&theme=codeSTACKr" />
   </a>
