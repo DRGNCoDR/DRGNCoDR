@@ -4,7 +4,7 @@
       rel="stylesheet" 
       type='text/css' 
       href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
-      width="100"
+      width="100%"
     />
   </head>
 <body>
@@ -19,7 +19,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -30,7 +30,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />          
         <br/>
         <div align="center">
@@ -41,7 +41,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />          
         <br/>
         <div align="center">
@@ -59,7 +59,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -70,7 +70,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -88,7 +88,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -99,7 +99,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -110,7 +110,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -128,7 +128,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -139,7 +139,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -150,7 +150,7 @@
         <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
           height="32px" 
-          width="100"
+          width="100%"
         />
         <br/>
         <div align="center">
@@ -158,7 +158,35 @@
         </div>
       </td>
   </tr>
-  <tr>
+   <tr>
+      <th>
+        <span>
+          <p>Tools and Editors:</p>
+        </span>
+      </th>      
+      <td>                
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>Visual Studio</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>Visual Studio Code</strong>
+        </div>
+      </td>      
+  </tr>
   </table>
   <!--<a href="https://github.com/DRGNCoDR/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DRGNCoDR&theme=codeSTACKr" />
