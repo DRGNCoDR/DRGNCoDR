@@ -1,14 +1,178 @@
+<html>
+  <head>
+    <link 
+      rel="stylesheet" 
+      type='text/css' 
+      href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+      width="100"
+    />
+  </head>
+<body>
+    <table height="100%">
+    <tr>
+      <th>
+        <span>
+          <p>Backend Languages:</p>
+        </span>
+      </th>      
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>C#</strong>
+        </div>
+      </td>
+      <td>      
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+          height="32px" 
+          width="100"
+        />          
+        <br/>
+        <div align="center">
+          <strong>PHP</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" 
+          height="32px" 
+          width="100"
+        />          
+        <br/>
+        <div align="center">
+          <strong>VB</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <span>
+          <p>Databases:</p>
+        </span>
+      </th>      
+      <td>                
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>SQL Server</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>MySQL</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <span>
+          <p>Web Technologies:</p>
+        </span>
+      </th>      
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>HTML</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>CSS3</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>Javascript</strong>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <span>
+          <p>Frameworks:</p>
+        </span>
+      </th>      
+      <td>                
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>React</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>Svelte</strong>
+        </div>
+      </td>
+      <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+          height="32px" 
+          width="100"
+        />
+        <br/>
+        <div align="center">
+          <strong>Bootstrap</strong>
+        </div>
+      </td>
+  </tr>
+  <tr>
+  </table>
+  <!--<a href="https://github.com/DRGNCoDR/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DRGNCoDR&theme=codeSTACKr" />
+  </a>
+  <a href="https://github.com/DRGNCoDR/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DRGNCoDR&layout=donut&card_width=320&theme=codeSTACKr" />
+  </a>-->
+</body>
 
-<a href="https://github.com/DRGNCoDR/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DRGNCoDR&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/DRGNCoDR/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DRGNCoDR&layout=donut&card_width=320&theme=codeSTACKr" />
-</a>
 <!--
 Anurag's GitHub stats
 **DRGNCoDR/DRGNCoDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ICONS from: https://devicon.dev/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,3 +184,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
