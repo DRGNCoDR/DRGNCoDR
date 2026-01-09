@@ -10,6 +10,11 @@
 <body>
     <table height="100%">
     <tr>
+      <th colspan="6">
+        Skills
+      </th>
+    </tr>
+    <tr>
       <th>
         <span>
           <p>Backend Languages:</p>
@@ -243,8 +248,12 @@
   </table>
   <table>
     <tr>
+      <th>In Progress</th>
+      <th>Demo Projects</th>
+    </tr>
+    <tr>
       <td>
-          <h4>Games in progress</h4>
+          <h4>Games</h4>
           <div>
             <a href="https://github.com/DRGNCoDR/CP-1">CP-1</a>
           </div>
@@ -253,10 +262,8 @@
           </div>
           <div>
             <a href="https://github.com/DRGNCoDR/DragonEggCollector">Dragon Egg Collector</a>
-          </div>
-      </td>
-       <td>
-          <h4>Apps in progress</h4>
+          </div>     
+          <h4>Apps</h4>
           <div>
             <a href="https://github.com/DRGNCoDR/react-todo-2026">React Todo 2026</a>
           </div>
@@ -266,6 +273,11 @@
           <div>
             <a href="https://github.com/DRGNCoDR/Project_Archive/tree/main/Java/Java-Tag-Generator-master">Tag Generator (Convert to different language)</a>
           </div>
+      </td>
+      <td>
+        <div>
+          Coming Soon...
+        </div>
       </td>
     </tr>    
   </table>
