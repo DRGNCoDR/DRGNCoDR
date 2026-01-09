@@ -183,10 +183,63 @@
         />
         <br/>
         <div align="center">
-          <strong>Visual Studio Code</strong>
+          <strong>VS Code</strong>
+        </div>
+      </td>
+     <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>PHP Storm</strong>
+        </div>
+      </td>    
+     <!--
+     <td>        
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>Eclipse</strong>
+        </div>
+      </td>    
+     -->
+  </tr>
+       <tr>
+      <th>
+        <span>
+          <p>Game Development:</p>
+        </span>
+      </th>      
+      <td>                
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>Godot</strong>
+        </div>
+      </td>
+          <td>                
+        <img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
+          height="32px" 
+          width="100%"
+        />
+        <br/>
+        <div align="center">
+          <strong>Unity</strong>
         </div>
       </td>      
-  </tr>
+    </tr>
   </table>
   <table>
     <tr>
